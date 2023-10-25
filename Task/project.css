@@ -1,0 +1,122 @@
+header {
+    background-image: url("lal.jpg") no-repeat center;
+    background-color: rgb(39, 37, 37);
+    color: rgb(248, 239, 239);
+    padding: 37px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: rgb(245, 236, 236);
+    text-decoration: none;
+    padding: 5px;
+}
+
+h2 {
+    color: blueviolet
+}
+
+.imag {
+    display: flex;
+}
+
+footer {
+    background: white;
+    color: rgb(8, 8, 8);
+    padding: 60px;
+    text-align: center;
+}
+
+footer {
+    .leftdiv {
+        float: left;
+        background-color: white;
+    }
+
+    .middle1div {
+        float: left;
+        background-color: white;
+    }
+
+    .middle2div {
+        float: left;
+        background-color: white;
+    }
+
+    .rightdiv {
+        float: left;
+        background-color: white;
+    }
+}
+
+.down {
+    padding: 1%;
+    color: white;
+    background-color: white;
+}
+
+header ul {
+    text-align: right;
+    padding-left: 100px;
+}
+
+main {
+    background-color: black;
+    color: white;
+    padding: 60px;
+}
+
+.f {
+    display: flex;
+}
+
+.b1 {
+    border: 2px rgb(230, 223, 223)solid;
+    color: white;
+    padding:10px ;
+}
+
+.b2 {
+    background-color: rgb(228, 12, 12);
+    border: 2px rgb(240, 233, 233)solid;
+    color: white;
+    padding:10px ;
+}
+
+.web2 {
+    padding: 70px;
+    font-size: 20px;
+    color: red;
+}
+
+.hd {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5px;
+}
+
+.si {
+    padding-left: 40px;
+}
+
+h1 {
+    padding-left: 6px;
+}
+
+.sel {
+    font-style: normal;
+    font-size: 70px;
+}
